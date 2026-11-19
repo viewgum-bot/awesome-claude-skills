@@ -45,10 +45,11 @@ A caption centred on the frame can be 696 px wide above y = 840 (x 192 to 888) a
 
 Length:
 - YouTube Shorts: square or vertical uploads up to 3 minutes.
-- Instagram Reels: up to 20 minutes made in the app; over 3 minutes is not recommended to new audiences. 3 seconds to 15 minutes
-  through the publishing API.
+- Instagram Reels: up to 20 minutes recorded and edited in the app; over 3 minutes is not recommended to new audiences.
+  3 seconds to 15 minutes through the publishing API.
 - Facebook Reels: no length limit in the app; the Page Reels API takes 3 to 90 seconds.
-- TikTok: no single published figure; its posting API returns each account's own maximum.
+- TikTok: up to 60 minutes uploaded in the phone app, 30 minutes on the web, 10 minutes recorded in the app or sent through the
+  posting API.
 
 Titles and captions:
 - YouTube: title up to 100 characters, description up to 5,000; more than 60 hashtags and all are ignored.
